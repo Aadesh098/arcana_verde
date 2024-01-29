@@ -3400,7 +3400,7 @@ export type RegisterInput = {
 };
 
 /** Role */
-export type Role = "ADMIN" | "CAPSTONE_MEMBER" | "CAPSTONE_LEAD" | "CAPSTONE_MENTOR";
+export type Role = "ADMIN" | "SALES_INTERN" | "SALES_PERSON" | "SALES_MANAGER";
 
 /** Sort Directions */
 export type SortDirection = "ASC" | "DESC";

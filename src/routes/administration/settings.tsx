@@ -74,16 +74,16 @@ const roleOptions: {
         value: "ADMIN",
     },
     {
-        label: "Capstone Mentor",
-        value: "CAPSTONE_MEMBER",
+        label: "Sales Intern",
+        value: "SALES_INTERN",
     },
     {
-        label: "Capstone Lead",
-        value: "CAPSTONE_LEAD",
+        label: "Sales Person",
+        value: "SALES_PERSON",
     },
     {
-        label: "Capstone Mentor",
-        value: "CAPSTONE_MENTOR",
+        label: "Sales Manager",
+        value: "SALES_MANAGER",
     },
 ];
 
